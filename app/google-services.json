@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1078274153050",
+    "firebase_url": "https://cinevox-limpidgreen.firebaseio.com",
+    "project_id": "cinevox-limpidgreen",
+    "storage_bucket": "cinevox-limpidgreen.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078274153050:android:12c117c037b975ec",
+        "android_client_info": {
+          "package_name": "com.limpidgreen.cinevox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1078274153050-3tb7pphd87bmlmc1m0iajefbajqnpe1j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYquCqqmdYOcSWwVb6AGPR0sFK7mlz62o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
